@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ⚡ QuizAI — MERN Stack AI Quiz Generator
 
 A full-stack MERN application where students register, log in, and take AI-generated 20-question MCQ tests via n8n webhook automation.
@@ -244,3 +245,6 @@ curl -X POST http://localhost:5000/api/quiz/QUIZ_ID/submit \
 | Auth | JWT + bcryptjs |
 | AI Integration | n8n webhook (OpenAI/Anthropic) |
 | Styling | Custom CSS (no UI library) |
+=======
+# n8n_quiz
+>>>>>>> 49953a41073842beca14f02db2b0c26833cc88f0
