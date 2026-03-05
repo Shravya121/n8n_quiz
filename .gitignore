@@ -1,5 +1,6 @@
 # Backend secrets - NEVER push these
 backend/.env
+backend/.env.example
 backend/node_modules
 
 # Frontend
