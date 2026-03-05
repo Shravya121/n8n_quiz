@@ -1,0 +1,14 @@
+# Backend secrets - NEVER push these
+backend/.env
+backend/node_modules
+
+# Frontend
+frontend/node_modules
+frontend/.env.local
+frontend/.env
+frontend/build
+
+# General
+.DS_Store
+*.log
+node_modules
